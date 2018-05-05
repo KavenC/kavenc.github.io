@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KavenC 開發筆記</title>
+    <link>https://kavenc.site/</link>
+    <description>Recent content on KavenC 開發筆記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 27 May 2017 03:52:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://kavenc.site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Cloud Storage作為Django上傳檔案伺服器</title>
+      <link>https://kavenc.site/post/django-google-cloud-storage/</link>
+      <pubDate>Sat, 27 May 2017 03:52:08 +0000</pubDate>
+      
+      <guid>https://kavenc.site/post/django-google-cloud-storage/</guid>
+      <description>前言 原本把Django Project放在Heroku免費方案下玩的還滿開心的，直到實作檔案上傳功能時，才發現Heroku Dyno無法保留上傳</description>
+    </item>
+    
+    <item>
+      <title>關於</title>
+      <link>https://kavenc.site/about/</link>
+      <pubDate>Fri, 26 May 2017 00:08:11 +0000</pubDate>
+      
+      <guid>https://kavenc.site/about/</guid>
+      <description>你好，我叫KavenC，是一名隨處可見的程式設計師，請多指教。 寫網誌的目的 我們需要更多繁體中文開發者部落格。 對於一名程式設計師來說，下班以後</description>
+    </item>
+    
+  </channel>
+</rss>

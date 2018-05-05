@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kavenc.site/post/django-google-cloud-storage/</loc>
+    <lastmod>2017-05-27T03:52:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kavenc.site/about/</loc>
+    <lastmod>2017-05-26T00:08:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kavenc.site/tags/django/</loc>
+    <lastmod>2017-05-27T03:52:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kavenc.site/tags/google-cloud-platform/</loc>
+    <lastmod>2017-05-27T03:52:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kavenc.site/tags/google-cloud-storage/</loc>
+    <lastmod>2017-05-27T03:52:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kavenc.site/</loc>
+    <lastmod>2017-05-27T03:52:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kavenc.site/post/</loc>
+    <lastmod>2017-05-27T03:52:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kavenc.site/tags/</loc>
+    <lastmod>2017-05-27T03:52:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kavenc.site/topics/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
